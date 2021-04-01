@@ -1,5 +1,5 @@
 # Pokemon
 
-![](https://giphy.com/gifs/pokemon-friendship-high-five-10LKovKon8DENq)
+![](http://mollypouts.tumblr.com/post/44149739251)
 
 ## [You can see the deployed version here](https://awesome-engelbart-ffe6d2.netlify.app/)

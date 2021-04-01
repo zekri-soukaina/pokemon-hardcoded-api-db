@@ -1,0 +1,7 @@
+.card-poke {
+  flex-direction: row;
+  margin: 30px;
+}
+.row {
+  display: flex;
+}

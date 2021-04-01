@@ -1,0 +1,20 @@
+.Pokemon {
+  transition: transform 0.2s ease;
+}
+.Pokemon:hover {
+  transform: scale(1.02) translate(0, -3px);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Pokemon:hover {
+    animation: App-logo-spin infinite 3s linear;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}
